@@ -1,16 +1,21 @@
-## Hi there 👋
+####👋 Hello! I'm Sadettin
 
-<!--
-**BaySword/BaySword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 **Python & AI developer in progress**  
+I'm exploring the world of data science and artificial intelligence, working on diverse data projects to expand my skills.
 
-Here are some ideas to get you started:
+💡 I love to learn, dive deep, and create meaningful insights.  
+🌟 I believe: Our dreams are limitless, and growth is a lifelong journey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔨 Current focus:
+- Python programming (from basics to advanced topics)
+- Data analysis & visualization (Pandas, Matplotlib, Seaborn)
+- Fundamentals of machine learning (Scikit-learn)
+- Project development using Jupyter Notebook
+
+📈 Goals:
+- Build meaningful projects with real-world datasets
+- Specialize in AI & ML domains
+- Contribute to open-source projects and share while learning
+
+✨ As someone who believes in imagination and lifelong learning, what I share here is just the beginning.  
+I'm here to explore, learn, and grow — and hopefully, connect with others on the same path!
